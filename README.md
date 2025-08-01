@@ -29,7 +29,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/Lagedane/ReactNativeFinalProject.git
+    git clone https://github.com/NatrinT/ReactNativeFinalProject.git
     ```
    
 2. **Navigate to the Project Directory**
